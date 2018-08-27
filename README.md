@@ -5,9 +5,11 @@
 * Ubantu 16.04
 * sudo apt-get install openjdk-8-jdk
 * git clone https://github.com/wqh0109663/openjdk-9-build-source.git
-  >  * Or you can download the code by mercurial
-     * sudo apt-get install mercurial
-     * hg clone http://hg.openjdk.java.net/jdk9/jdk9/ openjdk-9
+```
+  Or you can download the code by mercurial
+  sudo apt-get install mercurial
+  hg clone http://hg.openjdk.java.net/jdk9/jdk9/ openjdk-9
+```
 * cd openjdk-9-build-source
 * bash configure (it will show what you need to install ,so just install it)
 * make all
