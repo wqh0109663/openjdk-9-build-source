@@ -9,6 +9,10 @@
   Or you can download the code by mercurial
   sudo apt-get install mercurial
   hg clone http://hg.openjdk.java.net/jdk9/jdk9/ openjdk-9
+  cd openjdk-9
+  chmod 755 get_source.sh
+  ./get_source.sh
+  (tips : use foreign cloud instance OS to download or set proxy to download)
   ```
 * cd openjdk-9-build-source
 * bash configure (it will show what you need to install ,so just install it)
