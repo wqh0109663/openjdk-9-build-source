@@ -2,7 +2,7 @@
 
 ## Build Useage
 
-* Ubantu 16.04
+* ubuntu 16.04
 * sudo apt-get install openjdk-8-jdk
 * git clone https://github.com/wqh0109663/openjdk-9-build-source.git
   ```
